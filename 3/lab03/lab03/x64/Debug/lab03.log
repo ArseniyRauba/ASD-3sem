@@ -1,0 +1,3 @@
+﻿  lab03.cpp
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\АСД\3\lab03\lab03\lab03.cpp(6,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab03.vcxproj -> d:\Users\ggsen\Рабочий стол\лабы (3сем)\АСД\3\lab03\x64\Debug\lab03.exe
