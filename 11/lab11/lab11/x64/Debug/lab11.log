@@ -1,0 +1,4 @@
+﻿  lab11.cpp
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\АСД\11\lab11\lab11\lab11.cpp(10,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+d:\Users\ggsen\Рабочий стол\лабы (3сем)\АСД\11\lab11\lab11\lab11.cpp(18,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab11.vcxproj -> d:\Users\ggsen\Рабочий стол\лабы (3сем)\АСД\11\lab11\x64\Debug\lab11.exe
